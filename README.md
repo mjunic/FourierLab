@@ -1,6 +1,6 @@
 # FourierLab
 
-FourierLab 是一个面向《信息分析与处理》课程展示的本地图像频域实验软件。软件标题为“FourierLab —— 二维傅里叶图像实验平台”，包含频域滤波、Hybrid Image 融合和傅里叶域图像加密三个实验 Tab。
+FourierLab 是一个面向《信号分析与处理》课程展示的本地图像频域实验软件。软件标题为“FourierLab —— 二维傅里叶图像实验平台”，包含频域滤波、Hybrid Image 融合和傅里叶域图像加密三个实验 Tab。
 
 详细操作教程见 [USER_GUIDE.md](USER_GUIDE.md)。
 
